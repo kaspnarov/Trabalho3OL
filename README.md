@@ -10,7 +10,7 @@ python -m pip install --upgrade pip
 ```
 python -m pip install --upgrade --user ortools
 ```
-4. Clonar o repositório na máquina local
+4. Fazer download do repositório .zip e extrair o conteúdo
 5. Abrir a pasta do repositório local no terminal
 6. Rodar o código no terminal
 ```
